@@ -1,0 +1,25 @@
+﻿  WinIo.cpp
+WinIo.cpp(87): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+WinIo.cpp(89): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(101): note: 参见“wcscat”的声明
+WinIo.cpp(100): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  Port32.cpp
+Port32.cpp(31): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+Port32.cpp(92): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  Phys32.cpp
+Phys32.cpp(69): warning C4311: “类型转换”: 从“PBYTE”到“DWORD32”的指针截断
+Phys32.cpp(69): warning C4302: “类型转换”: 从“PBYTE”到“DWORD32”截断
+Phys32.cpp(102): warning C4311: “类型转换”: 从“PBYTE”到“DWORD32”的指针截断
+Phys32.cpp(102): warning C4302: “类型转换”: 从“PBYTE”到“DWORD32”截断
+  InstDrv.cpp
+InstDrv.cpp(80): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+InstDrv.cpp(86): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+InstDrv.cpp(98): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+InstDrv.cpp(155): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+  正在生成代码...
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1189,5): warning MSB8012: TargetPath(F:\pci\winio3.0\WinIo\Source\Dll\x64\Debug\WinIo.dll) does not match the Linker's OutputFile property value (F:\pci\winio3.0\WinIo\Source\Dll\x64\Debug\WinIo64.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(1191,5): warning MSB8012: TargetName(WinIo) does not match the Linker's OutputFile property value (WinIo64). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+    正在创建库 F:\pci\winio3.0\WinIo\Source\Dll\x64\Debug\WinIo.lib 和对象 F:\pci\winio3.0\WinIo\Source\Dll\x64\Debug\WinIo.exp
+  WinIo.vcxproj -> F:\pci\winio3.0\WinIo\Source\Dll\x64\Debug\WinIo.dll
+  WinIo.vcxproj -> F:\pci\winio3.0\WinIo\Source\Dll\x64\Debug\WinIo.pdb (Full PDB)
