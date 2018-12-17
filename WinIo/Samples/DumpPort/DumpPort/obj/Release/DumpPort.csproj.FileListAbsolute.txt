@@ -1,0 +1,8 @@
+F:\pci\winio3.0\WinIo\Samples\DumpPort\DumpPort\bin\Release\DumpPort.exe
+F:\pci\winio3.0\WinIo\Samples\DumpPort\DumpPort\bin\Release\DumpPort.pdb
+F:\pci\winio3.0\WinIo\Samples\DumpPort\DumpPort\obj\Release\DumpPort.csprojResolveAssemblyReference.cache
+F:\pci\winio3.0\WinIo\Samples\DumpPort\DumpPort\obj\Release\DumpPort.Form1.resources
+F:\pci\winio3.0\WinIo\Samples\DumpPort\DumpPort\obj\Release\DumpPort.Properties.Resources.resources
+F:\pci\winio3.0\WinIo\Samples\DumpPort\DumpPort\obj\Release\DumpPort.csproj.GenerateResource.Cache
+F:\pci\winio3.0\WinIo\Samples\DumpPort\DumpPort\obj\Release\DumpPort.exe
+F:\pci\winio3.0\WinIo\Samples\DumpPort\DumpPort\obj\Release\DumpPort.pdb
